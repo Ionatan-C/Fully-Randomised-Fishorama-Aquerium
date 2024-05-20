@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="JFF2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/JFF2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libraries/JFF2.jar!/org/marcprice/jff/doc" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
